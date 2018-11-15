@@ -119,6 +119,11 @@ footer h4{
     }
 
     @media all and (min-width: 1200px) {
+        div#wrapper {
+            width: 1200px;
+            margin: auto;
+        }
+
         img{
             width: 100%;
             background-color:rgb(230, 255, 250);
